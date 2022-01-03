@@ -1,0 +1,9 @@
+[submodule "apps/first-app"]
+	path = apps/first-app
+	url = git@github.com:hazimdikenli/first-app.git
+[submodule "apps/second-app"]
+	path = apps/second-app
+	url = git@github.com:hazimdikenli/second-app.git
+[submodule "packages/common-models"]
+	path = packages/common-models
+	url = git@github.com:hazimdikenli/common-models.git
